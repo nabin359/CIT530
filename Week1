@@ -1,5 +1,7 @@
-Introduction to Computer System(Steve Farmer)
+593
 
+Introduction to Computer System(Steve Farmer)
+Video 1
 Working with Bottom Up Approach
 
 High Level- SQL Haskell
@@ -10,3 +12,47 @@ Decive Physics: Transistors Electricity
 
 Abstractions will be the name of the game. 
 
+Video 2
+Course Structure:
+
+Start Hardware:
+  Transistors, Logic Gates, Memory, Virtual CPU
+Programming the CPU
+  Machine Language, Assembly Language
+Programming C Language
+
+Required Book: Introudction to Computing System
+
+Key to Success is homework.
+
+
+Makefile Supplementary Information 
+main.c, a main program
+point.h, header file for the point class
+point.c, implementation file for the point class
+rectangle.h, header file for the rectangle class
+rectangel.c, implementation for the rectangle class
+
+
+How is Semiconductors are made? How transistor actually look like?
+
+
+
+Converting Decimal Integer to Binary Integer 
+
+100:
+
+First Position = 10^2 =1*100 
+Second Position = 10^1 = 0*10
+Third Position = 10^0 = 0 * 1
+
+Now sum it up First Position , Second and third makes it 100
+
+Binary to Decimal:
+111
+
+First 2^2 + Second 2^1 + Third 2^0
+1 * 4 + 1 * 2 + 1 * 1
+= 7
+
+So the decimal of 111 is 7 
