@@ -36,7 +36,7 @@ rectangel.c, implementation for the rectangle class
 
 How is Semiconductors are made? How transistor actually look like?
 
-
+====================================================================================
 
 Converting Decimal Integer to Binary Integer 
 
@@ -56,3 +56,43 @@ First 2^2 + Second 2^1 + Third 2^0
 = 7
 
 So the decimal of 111 is 7 
+
+Decimal to Binary
+
+Now 7
+
+Divide 7 by 2 until answer is zero (Record Reminders)
+7/2 = 3 Rem = 1
+3/2 = 1 Rem = 1
+1/2 = 0 Rem = 1
+
+Likewise, the binary of decimal 7 is 111. 
+
+
+=======================================================
+
+Binary Arithmetic
+
+
+Add from right to left  propogating carry
+                          
+ 10010
++01001
+______
+ 11010
+
+10010
+01011
+______
+11101
+
+01111
+00001
+_____
+10000
+
+Binary Multiplication:
+
+
+
+
