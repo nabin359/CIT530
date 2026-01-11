@@ -97,13 +97,85 @@ Binary Multiplication:
 
 The Basic Model of a Computer
 
-The MACHINE 
+The MACHINE (Over Worked clerk, our cpu and his two desk drawers.
 
 4 basic Parts
   Memory for Data
   Arithemetic Logic Unit (ALU)
   Memory for Instruction:
   Programme Counter (PC) Now serving Sign! What door should you open next? Open door number 2!
+
+
+Big Question?
+
+How preciesly is the information strored?
+What is the format?
+How do we design the circut?
+How does the clerk actually perform those calculation?
+How do we put together to answer the question?
+
+
+Module 2 Introduction (Video)
+
+Introduction to Computer System
+
+Computer is a binary digital system.
+
+What does binary mean? What does digital mean?
+
+What is a bit? It is a basic unit of info in a computer.
+
+BIt is a contraction of two words.
+BIT = Binary Digit
+
+
+n bit to represent 2^n possible things.
+
+Why use a binary system?
+
+Either on or off. or voltage present or voltage absent.
+
+==============================
+
+
+Weighted Positional Representation
+
+
+REpresentation of Integer in Binary
+
+Arthemetic with Binary Numbers
+
+Addition, Substraction, multiplication, Division
+
+
+Finite Width AND overflow with non negative numbers 
+
+Carry out is also called overflow
+
+==========================================
+Representation of negative integer in Binary (2C)
+
+How to represent negative in computer. It is just zero and one.
+Sign-magitude.
+
+For example 
+0001 is a positive 1
+but
+1001 is negative 1. The leading # indicates the sign of the number.
+
+1 complement. (1C)
+Simply flip each digit to represent negative.
+
+2's Complement (2C)
+
+for example the decimal 5 is 0101
+
+To make it negative just flip the binary i.e 1010 (like in 1C)
+But as per 2c just add 1 to the least significant number in binary. i.e 1011
+
+Also remember to throw away the carry out . Meaning overflow is going to get a new defination. 
+
+
 
 
 
