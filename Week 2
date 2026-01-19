@@ -86,3 +86,34 @@ Transistors are in the length of 5 nano meters. Human hair is about 80 nano mete
 Logic Gates: NAND, NOR 
 
 
+
+Basic digital logic gates
+
+Not/Inv
+NAND
+AND
+NOR
+OR
+
+
+
+NAND Gate (Not ANd)
+
+Two inputs: Either 3 volts or 0 volts. One output.
+
+
+MOre than 2 inputs?
+
+And = 1 all input are 1 to turn on.
+
+OR = 1 if any input is 1 
+
+
+Gate Delays:
+
+Longest path of the Circut.
+
+Short hand for inverting signals
+
+
+
