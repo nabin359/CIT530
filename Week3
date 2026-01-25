@@ -3,3 +3,17 @@ Sequential Logic
 For storing things.
 
 
+R-S Latch
+
+Cross coupling of Nand Gates
+
+
+Analyzing operation of a Latch
+
+
+Truth table of Nand gate: 
+a  b  c
+0  0   1
+0  1   1
+1  0   1
+1  1   0
