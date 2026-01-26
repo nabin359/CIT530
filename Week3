@@ -38,7 +38,7 @@ Basic sturcture of computer memory
 
 
 
-
+Q11.1
 D-latch timing diagram
 
 The D-Flip_Flop Structure
@@ -53,6 +53,15 @@ Bulid Memory from Flip-Flops
 
 
 Two Basic type of RAM's
+
+Static Ram (SRAM ) 6 transistors per bit: Much faster
+
+Dynamic Ram(DRAM) 1 transistor per bit : Cound be made much dense (
+
+
+
+Memory Hierarchy:
+
 
 
 
