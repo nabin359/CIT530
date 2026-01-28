@@ -16,3 +16,7 @@ Each iteration of the loop must appear atomic meaning all or nothing. Once you s
 Atomic should happen in one shot. 
 
 Key take away: 
+
+
+Our First CPU:
+
