@@ -1,1 +1,18 @@
+What is the Von Neumann Model?
 
+Register File: Short term memory.
+
+
+Von Neumann model is a architecture or blueprint that every modern CPU ses to this day as this is been most successful model.
+Von Neuman loop: Von Neumannn abse processor essenttially does this: The program counter indexes the control memory and fetches instructon from the control memory? We call this fetch step in von neumann model. 
+Or fetch instruction at PC
+Next step in the vonneuman processor decode instructions (taking what is in control memory and converting to control signals)
+Next step is execute instructions (read inputs, operate, write output)
+Last step is to update the program counter 
+Rinse and repeat
+
+critical requirement 
+Each iteration of the loop must appear atomic meaning all or nothing. Once you start the fetch, you have to decode, have to execute and you have to update program counter before you stop the loop. 
+Atomic should happen in one shot. 
+
+Key take away: 
